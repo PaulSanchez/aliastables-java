@@ -1,0 +1,6 @@
+This is a Java implementation of the alias table mechanism for generating discrete
+random variables with finite support.  For a discrete distribution with k possible
+outcomes, setup is O(k) work.  Once initialized, it requires O(1) work per value
+generated.
+
+Please view the source for license information, and for javadoc documentation.
